@@ -64,16 +64,14 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: -200px;
 }
 
 #bottom-child03 {
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
-  left: 400px;
-  top: 200px;
+  position: relative;
+  left: -400px;
 }
